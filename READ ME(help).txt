@@ -1,0 +1,18 @@
+This program is made by crazy eagle
+
+how to run:
+	1:open the game you want 
+	2:close other apps
+	3:open fps-booster.exe
+	3:select your llaunched game
+	4:click on the boost
+	5:enjoy
+
+
+Warning:
+	1-if you have lag dont panic just wait
+	2-if your game freezed or crashed dont close game and dont turn off your pc
+	3-You must wait at least five minutes for the program to run properly
+
+Thanks for using my app
+If you enjoy, you can introduce this program to your friends to support me
